@@ -1,0 +1,6 @@
+[
+  {
+    "personaje":"2",
+    "texto":"Veamos que hay en las noticias"
+  }
+]

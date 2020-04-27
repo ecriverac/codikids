@@ -1,0 +1,8 @@
+<xml xmlns="https://developers.google.com/blockly/xml" id="toolbox" style="display: none">
+  <category name="Movimientos">
+    <block type="mover_avanzar"></block>
+    <block type="giro">
+      <field name="NAME">giro_derecha</field>
+    </block>
+  </category>
+</xml>

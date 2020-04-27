@@ -1,0 +1,18 @@
+[
+  {
+    "personaje":"2",
+    "texto":"Mía que pasa?"
+  },
+  {
+    "personaje":"1",
+    "texto":"Te acuerdas que me comentaste sobre una enfermedad rara en China? Están saliendo más noticias."
+  },
+  {
+    "personaje":"2",
+    "texto":"En serio? pasame el link!"
+  },
+  {
+    "personaje":"1",
+    "texto":"Estoy enviando el video a la televisión. Vamos a ver!"
+  }
+]

@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml" id="workspaceBlocks" style="display: none">
+  <block type="empezar" id="}gt):5vDgtR?E8#{o0bS" x="38" y="13">
+    <next>
+      <block type="mover_avanzar" id="vcTFkorsU#%Vm0]r=dh;">
+        <next>
+          <block type="giro" id="dz~mPJW-L{^],j,x15/5">
+            <field name="NAME">giro_derecha</field>
+          </block>
+        </next>
+      </block>
+    </next>
+  </block>
+</xml>

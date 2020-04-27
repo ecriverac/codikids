@@ -1,0 +1,9 @@
+<xml xmlns="https://developers.google.com/blockly/xml" id="workspaceBlocks" style="display: none">
+  <block type="empezar" id="empezar_1" x="20" y="10">
+      <next>
+        <block type="mover_avanzar" id="mover_avanzar_1"></block>
+      </next>
+  </block>
+
+  
+</xml>

@@ -1,0 +1,14 @@
+[
+  {
+    "personaje":"2",
+    "texto":"¿Cariño qué pasa?"
+  },
+  {
+    "personaje":"1",
+    "texto":"Acabo de leer en el celular sobre una nueva enfermedad en China, dicen que hay varios muertos."
+  },
+  {
+    "personaje":"2",
+    "texto":"En el trabajo tambien escuche que conversaban sobre eso. Prendamos la TV quizás exista alguna noticia sobre ello."
+  }
+  ]
